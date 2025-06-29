@@ -38,7 +38,7 @@ conda install -c bioconda bwa
 ### Install the MCP server
 
 ```bash
-git clone https://github.com/bio-mcp/bio-mcp-bwa
+git clone https://github.com/your-username/bio-mcp-bwa
 cd bio-mcp-bwa
 pip install -e .
 ```
